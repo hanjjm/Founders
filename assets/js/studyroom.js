@@ -1761,7 +1761,3 @@ module.exports = function(text, pattern, options) {
 
     return (best_loc < 0) ? false : true;
 };
-
-
-/***/ })
-/******/ ]);
